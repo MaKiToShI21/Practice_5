@@ -1,0 +1,5 @@
+D:\_Studies\_Semester_3\_Programming\Practices\WpfPractice5\bin\Release\net8.0-windows\publish\WpfPractice5.exe
+D:\_Studies\_Semester_3\_Programming\Practices\WpfPractice5\bin\Release\net8.0-windows\publish\WpfPractice5.dll
+D:\_Studies\_Semester_3\_Programming\Practices\WpfPractice5\bin\Release\net8.0-windows\publish\WpfPractice5.deps.json
+D:\_Studies\_Semester_3\_Programming\Practices\WpfPractice5\bin\Release\net8.0-windows\publish\WpfPractice5.runtimeconfig.json
+D:\_Studies\_Semester_3\_Programming\Practices\WpfPractice5\bin\Release\net8.0-windows\publish\WpfPractice5.pdb

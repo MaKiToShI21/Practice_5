@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|d:\\__studies\\_semester_3\\_programming\\practices\\wpfpractice5\\changemobiledevicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|solutionrelative:changemobiledevicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|d:\\__studies\\_semester_3\\_programming\\practices\\wpfpractice5\\changemobiledevicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|solutionrelative:changemobiledevicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|d:\\__studies\\_semester_3\\_programming\\practices\\wpfpractice5\\changedevicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|solutionrelative:changedevicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|d:\\__studies\\_semester_3\\_programming\\practices\\wpfpractice5\\changedevicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|solutionrelative:changedevicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|d:\\__studies\\_semester_3\\_programming\\practices\\wpfpractice5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|d:\\__studies\\_semester_3\\_programming\\practices\\wpfpractice5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|d:\\__studies\\_semester_3\\_programming\\practices\\wpfpractice5\\addsmartphonepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|solutionrelative:addsmartphonepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|d:\\__studies\\_semester_3\\_programming\\practices\\wpfpractice5\\adde_bookpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|solutionrelative:adde_bookpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|d:\\__studies\\_semester_3\\_programming\\practices\\wpfpractice5\\addmobiledevicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|solutionrelative:addmobiledevicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|d:\\__studies\\_semester_3\\_programming\\practices\\wpfpractice5\\addmobiledevicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8AEA75-370C-41FA-9129-4123CE2AA0D6}|WpfPractice5.csproj|solutionrelative:addmobiledevicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangeMobileDevicePage.xaml",
+              "DocumentMoniker": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\ChangeMobileDevicePage.xaml",
+              "RelativeDocumentMoniker": "ChangeMobileDevicePage.xaml",
+              "ToolTip": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\ChangeMobileDevicePage.xaml",
+              "RelativeToolTip": "ChangeMobileDevicePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T11:38:53.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangeMobileDevicePage.xaml.cs",
+              "DocumentMoniker": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\ChangeMobileDevicePage.xaml.cs",
+              "RelativeDocumentMoniker": "ChangeMobileDevicePage.xaml.cs",
+              "ToolTip": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\ChangeMobileDevicePage.xaml.cs",
+              "RelativeToolTip": "ChangeMobileDevicePage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:35:42.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeDevicePage.xaml",
+              "DocumentMoniker": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\ChangeDevicePage.xaml",
+              "RelativeDocumentMoniker": "ChangeDevicePage.xaml",
+              "ToolTip": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\ChangeDevicePage.xaml",
+              "RelativeToolTip": "ChangeDevicePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T11:29:21.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangeDevicePage.xaml.cs",
+              "DocumentMoniker": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\ChangeDevicePage.xaml.cs",
+              "RelativeDocumentMoniker": "ChangeDevicePage.xaml.cs",
+              "ToolTip": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\ChangeDevicePage.xaml.cs",
+              "RelativeToolTip": "ChangeDevicePage.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:28:56.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:22:36.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T08:22:27.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddSmartphonePage.xaml",
+              "DocumentMoniker": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\AddSmartphonePage.xaml",
+              "RelativeDocumentMoniker": "AddSmartphonePage.xaml",
+              "ToolTip": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\AddSmartphonePage.xaml",
+              "RelativeToolTip": "AddSmartphonePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T19:39:58.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddMobileDevicePage.xaml.cs",
+              "DocumentMoniker": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\AddMobileDevicePage.xaml.cs",
+              "RelativeDocumentMoniker": "AddMobileDevicePage.xaml.cs",
+              "ToolTip": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\AddMobileDevicePage.xaml.cs",
+              "RelativeToolTip": "AddMobileDevicePage.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:38:53.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddMobileDevicePage.xaml",
+              "DocumentMoniker": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\AddMobileDevicePage.xaml",
+              "RelativeDocumentMoniker": "AddMobileDevicePage.xaml",
+              "ToolTip": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\AddMobileDevicePage.xaml",
+              "RelativeToolTip": "AddMobileDevicePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T19:38:43.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddE_BookPage.xaml",
+              "DocumentMoniker": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\AddE_BookPage.xaml",
+              "RelativeDocumentMoniker": "AddE_BookPage.xaml",
+              "ToolTip": "D:\\__Studies\\_Semester_3\\_Programming\\Practices\\WpfPractice5\\AddE_BookPage.xaml",
+              "RelativeToolTip": "AddE_BookPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T19:38:11.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

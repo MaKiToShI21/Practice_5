@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\_Studies\_Semester_3\_Programming\Practices\WpfPractice5\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddE_BookPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddMobileDevicePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddSmartphonePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ChangeDevicePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ChangeE_BookPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ChangeMobileDevicePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ChangeSmartphonePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DeleteDevicePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PrintInfoPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddE_BookPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddMobileDevicePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddSmartphonePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ChangeDevicePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ChangeE_BookPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ChangeMobileDevicePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ChangeSmartphonePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DeleteDevicePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PrintInfoPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
